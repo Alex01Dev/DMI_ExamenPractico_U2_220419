@@ -24,17 +24,17 @@ class FullscreenLoader extends ConsumerWidget {
               size: 120,
               color: colors.primary,
             ),
-            const SizedBox(height: 40),
+            const SizedBox(height: 39),
 
             Text(
-              'CINEMAPEDIA',
+              'Cinemapedia',
               style: textStyles.headlineMedium?.copyWith(
                 color: Colors.blue,
                 fontWeight: FontWeight.bold,
                 letterSpacing: 2,
               ),
             ),
-            const SizedBox(height: 40),
+            const SizedBox(height: 39),
 
             SizedBox(
               width: 150,
