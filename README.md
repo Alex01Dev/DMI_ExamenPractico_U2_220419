@@ -1,9 +1,8 @@
 # 🎬 Cinemapedia — Proyecto Flutter
 
 <p align="center">
-  <img src="imagen1.jpg" alt="Flutter Logo" width="180"/>
-  <img src="imagen2.jpg" alt="MovieDB Logo" width="180"/>
-  <img src="imagen3.jpg" alt="App Preview" width="180"/>
+  <img src="img1.png" alt="Flutter Logo" width="180"/>
+  <img src="img2.png" alt="MovieDB Logo" width="180"/>
 </p>
 
 ---
